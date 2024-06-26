@@ -1,5 +1,5 @@
 {
-    "name": "prodigyphp/laravel-ssh-tunnel",
+    "name": "kamranbiglari/laravel-ssh-tunnel",
     "description": "Easy creation & maintenance of an SSH Tunnel for Laravel",
     "type": "library",
     "license": "MIT",
